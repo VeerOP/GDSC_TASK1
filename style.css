@@ -1,6 +1,5 @@
 html{
-    width: 1200px;
-    height: 2041px;
+    
     box-sizing: border-box;
 }
 
@@ -67,6 +66,7 @@ button{
 .posts{
     display: flex;
     flex-direction: column;
+    margin: auto;
     margin-top: 50px;
     background-color:#EDF7FA;
     max-width: 1152px;
